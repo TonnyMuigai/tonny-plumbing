@@ -1,0 +1,16 @@
+{
+  "name": "tonny/plumbing-sanitation",
+  "description": "TONNY plumbing and sanitation business website",
+  "type": "project",
+  "require": {
+    "php": ">=8.2",
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*"
+  },
+  "require-dev": {},
+  "autoload": {
+    "files": [
+      "app/bootstrap.php"
+    ]
+  }
+}

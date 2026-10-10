@@ -1,0 +1,1 @@
+<div class="flex items-center gap-4 text-sm"><a href="bookings.php" class="hover:underline">Bookings</a><a href="products.php" class="hover:underline">Products</a><span>
